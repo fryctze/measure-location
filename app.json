@@ -2,7 +2,7 @@
   "expo": {
     "name": "measure-location",
     "slug": "measure-location",
-    "version": "1.0.0",
+    "version": "0.0.1",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
@@ -37,6 +37,12 @@
         "projectId": "85c66031-88bf-4315-92a5-1452fe1dad69"
       }
     },
-    "owner": "fryctze"
+    "owner": "fryctze",
+    "runtimeVersion": {
+      "policy": "sdkVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/85c66031-88bf-4315-92a5-1452fe1dad69"
+    }
   }
 }
